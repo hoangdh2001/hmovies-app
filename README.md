@@ -28,7 +28,7 @@ A modern, high-performance Android application for movie discovery and tracking.
 * **UI Components**: XML Layouts, Material Design.
 * **Networking**: Retrofit / OkHttp (for API consumption).
 * **Image Loading**: Glide or Coil (for efficient movie poster rendering).
-* **Dependency Injection**: Dagger/Hilt or Koin (if applicable).
+* **Dependency Injection**: Dagger/Hilt (if applicable).
 * **View Handling**: Custom `multiple-status-view` for state management.
 
 ---
