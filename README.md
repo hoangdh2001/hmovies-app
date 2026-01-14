@@ -1,4 +1,3 @@
-# HMovie
 # HMovie App
 
 A modern, high-performance Android application for movie discovery and tracking. Built with **Kotlin** and following the **MVVM (Model-View-ViewModel)** architectural pattern.
